@@ -1,0 +1,24 @@
+{
+  "app_name": "OptSpace",
+  "common": {
+    "light_mode": "ライトモード",
+    "dark_mode": "ダークモード",
+    "login": "ログイン",
+    "logout": "ログアウト",
+    "register": "新規登録",
+    "favorite": "お気に入り",
+    "delete": "削除"
+  },
+  "page": {
+    "home": {
+      "title": "Home"
+    },
+    "space": {
+      "title": "Space",
+      "name_change": "名前変更"
+    },
+    "setting": {
+      "title": "設定"
+    }
+  }
+}
